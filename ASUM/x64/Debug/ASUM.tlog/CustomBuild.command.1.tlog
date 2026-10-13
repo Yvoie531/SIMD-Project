@@ -1,0 +1,6 @@
+^C:\USERS\LANCE\DOWNLOADS\ASUM_X64.ASM
+"C:\Program Files\NASM\nasm.exe" -f win64 "C:\Users\lance\Downloads\asum_x64.asm" -o "x64\Debug\asum_x64.obj"
+^C:\USERS\LANCE\DOWNLOADS\ASUM_XMM.ASM
+"C:\Program Files\NASM\nasm.exe" -f win64 "C:\Users\lance\Downloads\asum_xmm.asm" -o "x64\Debug\asum_xmm.obj"
+^C:\USERS\LANCE\DOWNLOADS\ASUM_YMM.ASM
+"C:\Program Files\NASM\nasm.exe" -f win64 "C:\Users\lance\Downloads\asum_ymm.asm" -o "x64\Debug\asum_ymm.obj"

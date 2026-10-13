@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ASUM/ASUM.vcxproj" Id="5010b2f2-fea7-4691-b0e3-f3a95e961772" />
+</Solution>
